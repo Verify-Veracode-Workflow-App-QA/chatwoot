@@ -1,0 +1,4 @@
+actions:
+  ruby:
+    version: 3.3.3
+    bundle: 2.4.6
